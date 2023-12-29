@@ -1,7 +1,7 @@
-<img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.com%2Feducation%2Fcomputers-tech%2Fwhat-is-coding-and-what-is-it-used-for%2F&psig=AOvVaw3WUf6CJNhYFsRx6H3JdHDa&ust=1703904490289000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPi6uIDRs4MDFQAAAAAdAAAAABAI" img>
+<img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.com%2Feducation%2Fcomputers-tech%2Fwhat-is-coding-and-what-is-it-used-for%2F&psig=AOvVaw3WUf6CJNhYFsRx6H3JdHDa&ust=1703904490289000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPi6uIDRs4MDFQAAAAAdAAAAABAI">
 <h1 align="center">Hi 👋, I'm Pranav Vishwakarma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.craiyon.com%2Fimage%2FDPWaXlPkTVeL-73mi3bUWw&psig=AOvVaw10ZNgpHmq8k-aTAIkPyOD1&ust=1703904394400000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPD67dXQs4MDFQAAAAAdAAAAABAE
+<img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.craiyon.com%2Fimage%2FDPWaXlPkTVeL-73mi3bUWw&psig=AOvVaw10ZNgpHmq8k-aTAIkPyOD1&ust=1703904394400000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPD67dXQs4MDFQAAAAAdAAAAABAE" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavvishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="pranavvishwakarma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavvishwakarma" alt="pranavvishwakarma" /></a> </p>
